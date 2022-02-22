@@ -146,5 +146,9 @@ h3 {
     "b b b"
     "c c c"
     "e e e";
-}
+}  
+.sectionfour {
+    margin: 0;
+    padding: 0;
+  }
 }
