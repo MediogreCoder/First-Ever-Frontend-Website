@@ -48,6 +48,7 @@ a:link {
 .thelinks:hover {
   background-size: 0 3px, 100% 3px;
   transform: scale(2);
+  transition-delay:1s;
 }
 
 .navbar {
